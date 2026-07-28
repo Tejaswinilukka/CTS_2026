@@ -1,0 +1,334 @@
+﻿angular.json
+db.json
+Deepskilling\
+Deepskilling\Module 4\
+Deepskilling\Module 4\.gitKeep
+Deepskilling\Module 4\MoqHandsOn\
+Deepskilling\Module 4\MoqHandsOn\CustomerCommMoq\
+Deepskilling\Module 4\MoqHandsOn\CustomerCommMoq\CustomerCommLib\
+Deepskilling\Module 4\MoqHandsOn\CustomerCommMoq\CustomerCommLib.Tests\
+Deepskilling\Module 4\MoqHandsOn\CustomerCommMoq\CustomerCommLib.Tests\CustomerCommTests.cs
+Deepskilling\Module 4\MoqHandsOn\CustomerCommMoq\CustomerCommLib\CustomerComm.cs
+Deepskilling\Module 4\MoqHandsOn\CustomerCommMoq\CustomerCommLib\IMailSender.cs
+Deepskilling\Module 4\MoqHandsOn\CustomerCommMoq\CustomerCommLib\MailSender.cs
+Deepskilling\Module 4\MoqHandsOn\Output.png
+Deepskilling\Module 4\NUnitHandsOn\
+Deepskilling\Module 4\NUnitHandsOn\CalcLibrary\
+Deepskilling\Module 4\NUnitHandsOn\CalcLibrary.Tests\
+Deepskilling\Module 4\NUnitHandsOn\CalcLibrary.Tests\CalculatorTests.cs
+Deepskilling\Module 4\NUnitHandsOn\CalcLibrary\Calculator.cs
+Deepskilling\Module 4\NUnitHandsOn\CalculatorSolution.sln
+Deepskilling\Module 4\NUnitHandsOn\Output.png
+Deepskilling\Module 5\
+Deepskilling\Module 5\.gitKeep
+Deepskilling\Module 5\RetailInventoryLab1\
+Deepskilling\Module 5\RetailInventoryLab1\Data\
+Deepskilling\Module 5\RetailInventoryLab1\Data\RetailContext.cs
+Deepskilling\Module 5\RetailInventoryLab1\Models\
+Deepskilling\Module 5\RetailInventoryLab1\Models\Category.cs
+Deepskilling\Module 5\RetailInventoryLab1\Models\Product.cs
+Deepskilling\Module 5\RetailInventoryLab1\Output.png
+Deepskilling\Module 5\RetailInventoryLab1\Program.cs
+Deepskilling\Module 5\RetailInventoryLab2\
+Deepskilling\Module 5\RetailInventoryLab2\Data\
+Deepskilling\Module 5\RetailInventoryLab2\Data\AppDbContext.cs
+Deepskilling\Module 5\RetailInventoryLab2\Models\
+Deepskilling\Module 5\RetailInventoryLab2\Models\Category.cs
+Deepskilling\Module 5\RetailInventoryLab2\Models\Product.cs
+Deepskilling\Module 5\RetailInventoryLab2\Output.png
+Deepskilling\Module 5\RetailInventoryLab2\Program.cs
+Deepskilling\Module 5\RetailInventoryLab2\README.md
+Deepskilling\Module 5\RetailInventoryLab3\
+Deepskilling\Module 5\RetailInventoryLab3\Data\
+Deepskilling\Module 5\RetailInventoryLab3\Data\AppDbContext.cs
+Deepskilling\Module 5\RetailInventoryLab3\Migrations\
+Deepskilling\Module 5\RetailInventoryLab3\Migrations\AppDbContextModelSnapshot.cs
+Deepskilling\Module 5\RetailInventoryLab3\Migrations\InitialCreate.cs
+Deepskilling\Module 5\RetailInventoryLab3\Migrations\InitialCreate.Designer.cs
+Deepskilling\Module 5\RetailInventoryLab3\Models\
+Deepskilling\Module 5\RetailInventoryLab3\Models\Category.cs
+Deepskilling\Module 5\RetailInventoryLab3\Models\Product.cs
+Deepskilling\Module 5\RetailInventoryLab3\Output (1).png
+Deepskilling\Module 5\RetailInventoryLab3\Output (2).png
+Deepskilling\Module 5\RetailInventoryLab3\Program.cs
+Deepskilling\Module 5\RetailInventoryLab3\README.md
+Deepskilling\Module 5\RetailInventoryLab4\
+Deepskilling\Module 5\RetailInventoryLab4\Data\
+Deepskilling\Module 5\RetailInventoryLab4\Data\AppDbContext.cs
+Deepskilling\Module 5\RetailInventoryLab4\Models\
+Deepskilling\Module 5\RetailInventoryLab4\Models\Category.cs
+Deepskilling\Module 5\RetailInventoryLab4\Models\Product.cs
+Deepskilling\Module 5\RetailInventoryLab4\Output.png
+Deepskilling\Module 5\RetailInventoryLab4\Program.cs
+Deepskilling\Module 5\RetailInventoryLab4\README.md
+Deepskilling\Module 5\RetailInventoryLab5\
+Deepskilling\Module 5\RetailInventoryLab5\Data\
+Deepskilling\Module 5\RetailInventoryLab5\Data\AppDbContext.cs
+Deepskilling\Module 5\RetailInventoryLab5\Models\
+Deepskilling\Module 5\RetailInventoryLab5\Models\Category.cs
+Deepskilling\Module 5\RetailInventoryLab5\Models\Product.cs
+Deepskilling\Module 5\RetailInventoryLab5\Output.png
+Deepskilling\Module 5\RetailInventoryLab5\Program.cs
+Deepskilling\Module 5\RetailInventoryLab5\README.md
+Deepskilling\Module 5\RetailInventoryLab6\
+Deepskilling\Module 5\RetailInventoryLab6\Data\
+Deepskilling\Module 5\RetailInventoryLab6\Data\AppDbContext.cs
+Deepskilling\Module 5\RetailInventoryLab6\Models\
+Deepskilling\Module 5\RetailInventoryLab6\Models\Category.cs
+Deepskilling\Module 5\RetailInventoryLab6\Models\Product.cs
+Deepskilling\Module 5\RetailInventoryLab6\Output.png
+Deepskilling\Module 5\RetailInventoryLab6\Program.cs
+Deepskilling\Module 5\RetailInventoryLab6\README.md
+Deepskilling\Module 5\RetailInventoryLab7\
+Deepskilling\Module 5\RetailInventoryLab7\Data\
+Deepskilling\Module 5\RetailInventoryLab7\Data\AppDbContext.cs
+Deepskilling\Module 5\RetailInventoryLab7\Models\
+Deepskilling\Module 5\RetailInventoryLab7\Models\Category.cs
+Deepskilling\Module 5\RetailInventoryLab7\Models\Product.cs
+Deepskilling\Module 5\RetailInventoryLab7\Output.png
+Deepskilling\Module 5\RetailInventoryLab7\Program.cs
+Deepskilling\Module 5\RetailInventoryLab7\README.md
+Deepskilling\Module 6\
+Deepskilling\Module 6\.gitKeep
+Deepskilling\Module 6\WebAPI-HOL1\
+Deepskilling\Module 6\WebAPI-HOL1\appsettings.json
+Deepskilling\Module 6\WebAPI-HOL1\Controllers\
+Deepskilling\Module 6\WebAPI-HOL1\Controllers\ValuesController.cs
+Deepskilling\Module 6\WebAPI-HOL1\launchSettings.json
+Deepskilling\Module 6\WebAPI-HOL1\Output.png
+Deepskilling\Module 6\WebAPI-HOL1\Program.cs
+Deepskilling\Module 6\WebAPI-HOL1\README.md
+Deepskilling\Module 6\WebAPI-HOL2\
+Deepskilling\Module 6\WebAPI-HOL2\appsettings.json
+Deepskilling\Module 6\WebAPI-HOL2\Controllers\
+Deepskilling\Module 6\WebAPI-HOL2\Controllers\EmployeeController.cs
+Deepskilling\Module 6\WebAPI-HOL2\launchSettings.json
+Deepskilling\Module 6\WebAPI-HOL2\Models\
+Deepskilling\Module 6\WebAPI-HOL2\Models\Employee.cs
+Deepskilling\Module 6\WebAPI-HOL2\Output.png
+Deepskilling\Module 6\WebAPI-HOL2\Program.cs
+Deepskilling\Module 6\WebAPI-HOL2\README.md
+Deepskilling\Module 6\WebAPI-HOL3\
+Deepskilling\Module 6\WebAPI-HOL3\appsettings.json
+Deepskilling\Module 6\WebAPI-HOL3\Controllers\
+Deepskilling\Module 6\WebAPI-HOL3\Controllers\EmployeeController.cs
+Deepskilling\Module 6\WebAPI-HOL3\Filters\
+Deepskilling\Module 6\WebAPI-HOL3\Filters\CustomAuthFilter.cs
+Deepskilling\Module 6\WebAPI-HOL3\Filters\CustomExceptionFilter.cs
+Deepskilling\Module 6\WebAPI-HOL3\launchSettings.json
+Deepskilling\Module 6\WebAPI-HOL3\Models\
+Deepskilling\Module 6\WebAPI-HOL3\Models\Department.cs
+Deepskilling\Module 6\WebAPI-HOL3\Models\Employee.cs
+Deepskilling\Module 6\WebAPI-HOL3\Models\Skill.cs
+Deepskilling\Module 6\WebAPI-HOL3\Program.cs
+Deepskilling\Module 6\WebAPI-HOL3\README.md
+Deepskilling\Module 6\WebAPI-HOL4\
+Deepskilling\Module 6\WebAPI-HOL4\appsettings.json
+Deepskilling\Module 6\WebAPI-HOL4\Controllers\
+Deepskilling\Module 6\WebAPI-HOL4\Controllers\EmployeeController.cs
+Deepskilling\Module 6\WebAPI-HOL4\launchSettings.json
+Deepskilling\Module 6\WebAPI-HOL4\Models\
+Deepskilling\Module 6\WebAPI-HOL4\Models\Employee.cs
+Deepskilling\Module 6\WebAPI-HOL4\Output.png
+Deepskilling\Module 6\WebAPI-HOL4\Program.cs
+Deepskilling\Module 6\WebAPI-HOL4\README.md
+Deepskilling\Module 6\WebAPI-HOL5\
+Deepskilling\Module 6\WebAPI-HOL5\appsettings.json
+Deepskilling\Module 6\WebAPI-HOL5\Controllers\
+Deepskilling\Module 6\WebAPI-HOL5\Controllers\AuthController.cs
+Deepskilling\Module 6\WebAPI-HOL5\Controllers\EmployeeController.cs
+Deepskilling\Module 6\WebAPI-HOL5\launchSettings.json
+Deepskilling\Module 6\WebAPI-HOL5\Models\
+Deepskilling\Module 6\WebAPI-HOL5\Models\Employee.cs
+Deepskilling\Module 6\WebAPI-HOL5\Output.png
+Deepskilling\Module 6\WebAPI-HOL5\Program.cs
+Deepskilling\Module 6\WebAPI-HOL5\README.md
+Deepskilling\Module 6\WebAPI-HOL6\
+Deepskilling\Module 6\WebAPI-HOL6\appsettings.json
+Deepskilling\Module 6\WebAPI-HOL6\ClientApp\
+Deepskilling\Module 6\WebAPI-HOL6\ClientApp\Form1.cs
+Deepskilling\Module 6\WebAPI-HOL6\ClientApp\Program.cs
+Deepskilling\Module 6\WebAPI-HOL6\Consumer\
+Deepskilling\Module 6\WebAPI-HOL6\Consumer\Program.cs
+Deepskilling\Module 6\WebAPI-HOL6\Output (1).png
+Deepskilling\Module 6\WebAPI-HOL6\Output (2).png
+Deepskilling\Module 6\WebAPI-HOL6\Producer\
+Deepskilling\Module 6\WebAPI-HOL6\Producer\Program.cs
+Deepskilling\Module 6\WebAPI-HOL6\README.md
+Deepskilling\Module 7\
+Deepskilling\Module 7\JWTAuthenticationLab\
+Deepskilling\Module 7\JWTAuthenticationLab\appsettings.json
+Deepskilling\Module 7\JWTAuthenticationLab\Controllers\
+Deepskilling\Module 7\JWTAuthenticationLab\Controllers\AuthController.cs
+Deepskilling\Module 7\JWTAuthenticationLab\Controllers\SecureController.cs
+Deepskilling\Module 7\JWTAuthenticationLab\launchSettings.json
+Deepskilling\Module 7\JWTAuthenticationLab\Models\
+Deepskilling\Module 7\JWTAuthenticationLab\Models\LoginModel.cs
+Deepskilling\Module 7\JWTAuthenticationLab\Models\User.cs
+Deepskilling\Module 7\JWTAuthenticationLab\Output.png
+Deepskilling\Module 7\JWTAuthenticationLab\Program.cs
+Deepskilling\Module 7\JWTAuthenticationLab\README.md
+Deepskilling\Module 9\
+Deepskilling\Module 9\.gitKeep
+Deepskilling\Module 9\Git-HOL1\
+Deepskilling\Module 9\Git-HOL1\Git_HOL_Solution.docx
+Deepskilling\Module 9\Git-HOL2\
+Deepskilling\Module 9\Git-HOL2\Git_HOL2_Solution.docx
+Deepskilling\Module 9\Git-HOL3\
+Deepskilling\Module 9\Git-HOL3\Git_HOL3_Solution.docx
+Deepskilling\Module 9\Git-HOL4\
+Deepskilling\Module 9\Git-HOL4\Git_HOL4_Solution.docx
+Deepskilling\Module 9\Git-HOL5\
+Deepskilling\Module 9\Git-HOL5\Git_HOL5_Solution.docx
+Deepskilling\README.md
+Deepskilling\Week-1\
+Deepskilling\Week-1\Design Patterns and Principles\
+Deepskilling\Week-1\Design Patterns and Principles\e -11 DEPENDENCY INJECTION.docx
+Deepskilling\Week-1\Design Patterns and Principles\e-10 MODEL VIEW CONTROLLER.docx
+Deepskilling\Week-1\Design Patterns and Principles\e-6 PROXY DESIGN PATTERN.docx
+Deepskilling\Week-1\Design Patterns and Principles\e-7OBSERVER DESIGN PATTERN.docx
+Deepskilling\Week-1\Design Patterns and Principles\e-8 STRATEGY DESIGN PATTERN.docx
+Deepskilling\Week-1\Design Patterns and Principles\e-9 COMMAND DESIGN PATTERN.docx
+Deepskilling\Week-1\Design Patterns and Principles\Java_Ex1_Singleton_Pattern.docx
+Deepskilling\Week-1\Design Patterns and Principles\Python_Ex2_Factory_Method_Pattern.docx
+Deepskilling\Week-1\Design Patterns and Principles\Python_Ex3_Builder_Pattern.docx
+Deepskilling\Week-1\Design Patterns and Principles\Python_Ex4_Adapter_Pattern.docx
+Deepskilling\Week-1\Design Patterns and Principles\Python_Ex5_Decorator_Pattern.docx
+Deepskilling\Week-1\Design Patterns and Principles\README.md
+Deepskilling\Week-1\Exercise-1-InventoryManagementSystem\
+Deepskilling\Week-1\Exercise-1-InventoryManagementSystem\README.md
+Deepskilling\Week-1\Exercise-1-InventoryManagementSystem\week 1.e1.docx
+Deepskilling\Week-1\Exercise-2-ECommercePlatformSearchFunction\
+Deepskilling\Week-1\Exercise-2-ECommercePlatformSearchFunction\Exercise2_Ecommerce_Search.docx
+Deepskilling\Week-1\Exercise-2-ECommercePlatformSearchFunction\README.md
+Deepskilling\Week-1\Exercise-3-SortingCustomerOrders\
+Deepskilling\Week-1\Exercise-3-SortingCustomerOrders\Exercise3_Sorting_Orders.docx
+Deepskilling\Week-1\Exercise-3-SortingCustomerOrders\README.md
+Deepskilling\Week-1\Exercise-4-EmployeeManagementSystem\
+Deepskilling\Week-1\Exercise-4-EmployeeManagementSystem\Exercise4_Employee_Management (1).docx
+Deepskilling\Week-1\Exercise-4-EmployeeManagementSystem\README.md
+Deepskilling\Week-1\Exercise-5-TaskManagementSystem\
+Deepskilling\Week-1\Exercise-5-TaskManagementSystem\Exercise5_Task_Management.docx
+Deepskilling\Week-1\Exercise-5-TaskManagementSystem\README.md
+Deepskilling\Week-1\Exercise-6-LibraryManagementSystem\
+Deepskilling\Week-1\Exercise-6-LibraryManagementSystem\Exercise6_Library_Management.docx
+Deepskilling\Week-1\Exercise-6-LibraryManagementSystem\README.md
+Deepskilling\Week-1\Exercise-7-FinancialForecasting\
+Deepskilling\Week-1\Exercise-7-FinancialForecasting\Exercise7_Financial_Forecasting.docx
+Deepskilling\Week-1\Exercise-7-FinancialForecasting\README.md
+Deepskilling\Week-2\
+Deepskilling\Week-2\Advanced SQL\
+Deepskilling\Week-2\Advanced SQL\7. SQL Exercise - Cursors.docx
+Deepskilling\Week-2\Advanced SQL\8. SQL Exercise - Exception handling.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\e -1 .1ADVANCED SQL EXERCISES.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\e-1.2ADVANCED SQL EXERCISES.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\e-1.3ADVANCED SQL EXERCISES.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\e-1.4ADVANCED SQL EXERCISES.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\e-1.5ADVANCED SQL EXERCISES.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\e-2 ADVANCED SQL EXERCISES.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\README.md
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\SQL_Ex1_Ranking_Window_Functions.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\SQL_Ex2_Aggregation_GroupingSets.docx
+Deepskilling\Week-2\Advanced SQL\Advanced concepts on Online Retail Store\SQL_Ex3_CTEs_and_MERGE.docx
+Deepskilling\Week-2\Advanced SQL\e-2 ADVANCED SQL EXERCISES.docx
+Deepskilling\Week-2\Advanced SQL\e-3EMPLOYEE MANAGEMENT SYSTEM.docx
+Deepskilling\Week-2\Advanced SQL\e-4EMPLOYEE MANAGEMENT SYSTEM.docx
+Deepskilling\Week-2\Advanced SQL\E-6  SQL Exercise - Triggers.docx
+Deepskilling\Week-2\Advanced SQL\README.md
+Deepskilling\Week-2\README.md
+notes.txt
+package.json
+package-lock.json
+README.md
+src\
+src\app\
+src\app\app.component.css
+src\app\app.component.html
+src\app\app.component.ts
+src\app\app.config.ts
+src\app\app.routes.ts
+src\app\components\
+src\app\components\course-card\
+src\app\components\course-card\course-card.component.css
+src\app\components\course-card\course-card.component.html
+src\app\components\course-card\course-card.component.spec.ts
+src\app\components\course-card\course-card.component.ts
+src\app\components\course-summary\
+src\app\components\course-summary\course-summary-widget.component.ts
+src\app\components\header\
+src\app\components\header\header.component.css
+src\app\components\header\header.component.html
+src\app\components\header\header.component.ts
+src\app\components\notification\
+src\app\components\notification\notification.component.ts
+src\app\directives\
+src\app\directives\highlight.directive.ts
+src\app\features\
+src\app\features\enrollment\
+src\app\features\enrollment\enrollment.module.ts
+src\app\features\enrollment\enrollment-routing.module.ts
+src\app\guards\
+src\app\guards\auth.guard.ts
+src\app\guards\unsaved-changes.guard.ts
+src\app\interceptors\
+src\app\interceptors\auth.interceptor.ts
+src\app\interceptors\error-handler.interceptor.ts
+src\app\interceptors\loading.interceptor.ts
+src\app\models\
+src\app\models\course.model.ts
+src\app\pages\
+src\app\pages\course-detail\
+src\app\pages\course-detail\course-detail.component.css
+src\app\pages\course-detail\course-detail.component.html
+src\app\pages\course-detail\course-detail.component.ts
+src\app\pages\course-list\
+src\app\pages\course-list\course-list.component.css
+src\app\pages\course-list\course-list.component.html
+src\app\pages\course-list\course-list.component.spec.ts
+src\app\pages\course-list\course-list.component.ts
+src\app\pages\enrollment-form\
+src\app\pages\enrollment-form\enrollment-form.component.css
+src\app\pages\enrollment-form\enrollment-form.component.html
+src\app\pages\enrollment-form\enrollment-form.component.ts
+src\app\pages\home\
+src\app\pages\home\home.component.css
+src\app\pages\home\home.component.html
+src\app\pages\home\home.component.ts
+src\app\pages\not-found\
+src\app\pages\not-found\not-found.component.ts
+src\app\pages\reactive-enrollment-form\
+src\app\pages\reactive-enrollment-form\reactive-enrollment-form.component.css
+src\app\pages\reactive-enrollment-form\reactive-enrollment-form.component.html
+src\app\pages\reactive-enrollment-form\reactive-enrollment-form.component.ts
+src\app\pages\student-profile\
+src\app\pages\student-profile\student-profile.component.css
+src\app\pages\student-profile\student-profile.component.html
+src\app\pages\student-profile\student-profile.component.ts
+src\app\pipes\
+src\app\pipes\credit-label.pipe.ts
+src\app\services\
+src\app\services\auth.service.ts
+src\app\services\course.service.spec.ts
+src\app\services\course.service.ts
+src\app\services\enrollment.service.ts
+src\app\services\loading.service.ts
+src\app\services\notification.service.ts
+src\app\store\
+src\app\store\course\
+src\app\store\course\course.actions.ts
+src\app\store\course\course.effects.ts
+src\app\store\course\course.reducer.ts
+src\app\store\course\course.selectors.ts
+src\app\store\enrollment\
+src\app\store\enrollment\enrollment.actions.ts
+src\app\store\enrollment\enrollment.reducer.ts
+src\app\store\enrollment\enrollment.selectors.ts
+src\index.html
+src\main.ts
+src\styles.css
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+Upskilling\
+Upskilling\README.md
