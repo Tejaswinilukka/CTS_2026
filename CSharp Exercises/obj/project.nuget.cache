@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXH98O58bus=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tejas\\OneDrive\\Desktop\\Upskilling\\CSharp Exercises\\CSharpExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
